@@ -1,3 +1,12 @@
+<style>
+  .wrapper {
+    max-width: 900px;
+  }
+  body {
+    background-color: #fcfcfc; /* Changes overall background */
+    color: #333333;           /* Changes overall text color */
+  }
+</style>
 
 <h1>Welcome to my ePortfolio!</h1>
 
