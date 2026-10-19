@@ -1,13 +1,3 @@
-<style>
-  .wrapper {
-    max-width: 900px;
-  }
-  body {
-    background-color: #fcfcfc; /* Changes overall background */
-    color: #333333;           /* Changes overall text color */
-  }
-</style>
-
 <h1>Welcome to my ePortfolio!</h1>
 
 <p>{<br>
@@ -44,7 +34,7 @@ There were a decent amount of issues with the code, not logically, but structura
 
 <br>
 
-[Code Review of the Original Project that Details the Enhancement Plan](https://github.com/seannabaker/seannabaker.github.io/blob/main/Code%20Review%20Video)
+[Code Review of the Original Project that Details the Enhancement Plan](https://youtu.be/qGohitRhW5E?si=23Ha3zIZL73fS85r)
 
 <br><br>
 
@@ -52,7 +42,8 @@ There were a decent amount of issues with the code, not logically, but structura
 
 <img width="454.5" height="442.5" align="right" alt="Screenshot 2026-10-18 at 3 57 13 PM" src="https://github.com/user-attachments/assets/5f28fc98-e95a-416a-8740-f8e3ff65ba5c" />
 
-[Enhancement One Narrative](https://github.com/seannabaker/seannabaker.github.io/blob/main/3-2%20Milestone%20Two_%20Enhancement%20One%20-%20SeannaBaker2026.docx)
+[Enhancement One Narrative](https://github.com/seannabaker/seannabaker.github.io/blob/main/3-2%20Milestone%20Two_%20Enhancement%20One%20-%20SeannaBaker2026.docx)&emsp;--->&emsp; 
+[Enhancement One Java File](https://github.com/seannabaker/seannabaker.github.io/blob/main/CS499EnhancementOne.java)
 
 The first enhancement made to the code to demonstrate my abilities to design and engineer software was to convert the C++ program into a Java program with the exact same functionality and expected input/output.<br><br>
 The image on the right is an example of what the menu while loop looked like within enhancement one. It used an in-program function to verify that the input received was viable for the section of the code and then it used that input to determine which branch of the switch case would be executed. <br><br>
@@ -62,14 +53,32 @@ Aside from converting the language, other updates were made to the program to ma
 <br><br><br>
 <h2>Enhancement Two - Algorithms and Data Structures</h2>
 
-<img width="632" height="268" alt="Screenshot 2026-10-18 at 4 06 05 PM" src="https://github.com/user-attachments/assets/5d5458ad-1462-48cc-91f5-8f5b0883d19d" />
+<img width="632" height="268" align="left" alt="Screenshot 2026-10-18 at 4 06 05 PM" src="https://github.com/user-attachments/assets/5d5458ad-1462-48cc-91f5-8f5b0883d19d" />
 
+<br>
 
+[Enhancement Two Narrative](https://github.com/seannabaker/seannabaker.github.io/blob/main/3-2%20Milestone%20Two_%20Enhancement%20One%20-%20SeannaBaker2026.docx)&emsp;--->&emsp; 
+[Enhancement Two Java File](https://github.com/seannabaker/seannabaker.github.io/blob/main/CS499EnhancementTwo.java)
 
+The second enhancement made to the code to demonstrate my abilities to work with and implement data structures was to transition the previously hard-coded variables into ArrayLists. This conversion allowed for easier access and management. When a new name needed to be added it can simply be added to the end of the ArrayList instead of the need for a new variable to be declared and initialized. 
 
+<img width="592" height="113" align="left" alt="Screenshot 2026-10-18 at 4 06 21 PM" src="https://github.com/user-attachments/assets/a5f845cd-2ee4-4fbc-a214-ca619c05ddec" />
+
+The images to the left show the implementation of the new data structure as well as the updates to the functions that access those variables. Now that an arrayList is being used the values can quickly be indexed through and accessed with a for loop.
+
+<br>
 
 <h2>Enhancement Three - Databases </h2>
 
+<img width="1429" height="818" alt="Screenshot 2026-10-18 at 4 52 49 PM" src="https://github.com/user-attachments/assets/2e5ef421-7ee8-45b7-88da-8fafae0505dd" />
+<br>
+
+[Enhancement Three Narrative](https://github.com/seannabaker/seannabaker.github.io/blob/main/4-2%20Milestone%20Three_%20Enhancement%20Two%20-%20SeannaBaker2026.docx)&emsp;--->&emsp; 
+[Enhancement Three Java File](https://github.com/seannabaker/seannabaker.github.io/blob/main/CS499EnhancementThree.java)
+
+The third enhancement made to the code to demonstrate my abilities to work with and implement databases was to create and connect a database to the code. I decided for this project to work with MongoDB. I used MongoDB Compass as my database GUI for easy of use and to have the ability to quickly see which documents I had in each of the two databases.<br><br>
+The image above shows an example of what the MongoDB Compass application looked like when within one of the databases and viewing the objects.<br><br>
+The first database that I created was for the clients, it simply holds their names and their account choice but could easily be expanded to hold more information should the application be expanded. The second database is for the users, this database holds the username and password pairs that are allowed to access the program, this provides an introductory layer of security for the program.
 </p>
 
 
