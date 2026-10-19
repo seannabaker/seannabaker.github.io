@@ -2,10 +2,14 @@
 
 <p>{<br>
       &emsp;&emsp;"name" : "Seanna Baker",<br>
-      &emsp;&emsp;"profession" : "IT Helpdesk Technician",<br>
       &emsp;&emsp;"degree" : "Bachelors in Computer Science",<br>
       &emsp;&emsp;"languages" : [ "Python", "Java", "C++" ]<br>
 }<br><br></p>
+
+<h2>Professional Self-Assessment</h2>
+&emsp;Throughout the classes I have taken in the Computer Science program I have been able to learn, adapt, and advance my skills. Whether I was learning how to be more thorough in the security of my code or understanding the language to fix an error this program has helped build my confidence. The courses that I performed the best in, and had the most enjoyment in, involved hands-on programming and I tend to naturally gravitate towards backend development. I thrive as a problem-solver and I have a knack for brainstorming solutions to problems in code whether that be the architecture, the optimization, or the security. Building this ePortfolio has provided an opportunity to reflect on the growth of my skillset over time. This program and ePortfolio have helped ensure my readiness for the industry whether I am working with structural design, databases, or security implementation. 
+<br> &emsp;All of the enhancements that I made to my original artifact for this ePortfolio demonstrate the breadth of my competencies. Transitioning my original project into a standardized java application exemplifies my software engineering abilities and my knowledge in multiple languages. Introducing arrayLists to my program validates my expertise in working with data structures and my proficiency in optimizing codebases. Additionally, incorporating a database elevates system functionality, reduces redundancy, and improves security within the program. I embedded a security mindset by continuously ensuring that all OWASP standards were being accounted for. Beyond my technical execution, my experience reflects my ability to collaborate within a team environment as I am able to adapt to different workflows, meet deadlines, and include all of the requirements in my submissions. Ultimately, my comprehensive understanding of the software development lifecycle enables me to communicate with both a technical and a non-technical crowd team such as my peers and the stakeholders. <br><br> 
+
 
 <h2>Skills and Outcomes</h2>
 <p>This ePortfolio demonstrates my ability to meet the following requirements of CS499:<br>
